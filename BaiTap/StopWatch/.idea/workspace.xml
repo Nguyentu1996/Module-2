@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25dd455d-09eb-47ba-b630-2056d02829c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XayDungLopPTbac2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../XayDungLopPTbac2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25dd455d-09eb-47ba-b630-2056d02829c5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +17,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="311">
               <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
               <folding>
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,6 +86,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -130,7 +130,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -142,7 +141,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -163,12 +162,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/StopWatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="311">
           <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
           <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
           </folding>
         </state>
       </provider>
