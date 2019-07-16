@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2aa132d-7d06-41a8-8242-2f56a0b44725" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CylinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/out/production/HeCacDoiTuongHinhHoc/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/out/production/HeCacDoiTuongHinhHoc/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/out/production/HeCacDoiTuongHinhHoc/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/out/production/HeCacDoiTuongHinhHoc/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/src/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/src/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThucHanh/HeCacDoiTuongHinhHoc/src/SquareTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a2aa132d-7d06-41a8-8242-2f56a0b44725" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/CircleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -59,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/Cylinder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="e#131#132#0" expanded="true" />
                 <element signature="e#150#151#0" expanded="true" />
@@ -77,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CylinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="63">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -100,8 +90,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/CircleTest.java" />
         <option value="$PROJECT_DIR$/src/Circle.java" />
-        <option value="$PROJECT_DIR$/src/CylinderTest.java" />
         <option value="$PROJECT_DIR$/src/Cylinder.java" />
+        <option value="$PROJECT_DIR$/src/CylinderTest.java" />
       </list>
     </option>
   </component>
@@ -138,6 +128,9 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,7 +181,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -203,7 +195,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -269,14 +261,14 @@
     <entry file="file://$PROJECT_DIR$/src/CircleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cylinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
@@ -292,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CylinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="63">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
