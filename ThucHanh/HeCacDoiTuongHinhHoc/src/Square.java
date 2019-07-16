@@ -8,8 +8,9 @@ public class Square extends Rectangle {
         super(size,size,color,filled);
     }
     public double getSize(){
-    return getWidth();
+         return getWidth();
     }
+
     public  void setSize(double size){
         setWidth(size);
         setHeight(size);
@@ -23,8 +24,9 @@ public class Square extends Rectangle {
     public void setHeight(double height){
         setSize(height);
     }
+
     @Override
-    public String toString(){
-        return " A Square width side = "+getSize()+" , which is a subclass of"+ super.toString();
+    public String toString() {
+        return "A square width size= "+getSize()+" which is a subclass of "+super.toString();
     }
 }

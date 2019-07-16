@@ -1,5 +1,4 @@
 public class SquareTest {
-
         public static void main(String[] args) {
             Square square = new Square();
             System.out.println(square);
@@ -10,5 +9,5 @@ public class SquareTest {
             square = new Square(5.9, "yellow", true);
             System.out.println(square);
         }
-    }
+}
 
