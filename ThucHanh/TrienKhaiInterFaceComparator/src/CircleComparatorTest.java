@@ -4,8 +4,8 @@ import java.util.Comparator;
 public class CircleComparatorTest {
     public static void main(String[] args) {
         Circle[] circles=new Circle[2];
-        circles[1]=new Circle();
         circles[0]= new Circle("yellow",true,3.6);
+        circles[1]=new Circle();
         System.out.println("pre-sorted");
         for (Circle circle :circles){
             System.out.println(circle);

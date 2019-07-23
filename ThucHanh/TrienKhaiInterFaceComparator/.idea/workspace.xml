@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89094c22-ffab-4e05-a7b7-ae7f5afacc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LopAnimalVaLopInterfaceEdible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LopAnimalVaLopInterfaceEdible/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/TrienKhaiLopInterfaceResizeChoLopHinhHoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc/src/TestResizeable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircleComparatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="441">
               <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
               <folding>
                 <element signature="e#278#279#0" expanded="true" />
@@ -52,9 +56,9 @@
                 <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#352#353#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
                 <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
                 <element signature="e#644#645#0" expanded="true" />
               </folding>
@@ -74,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CircleComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="66">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,14 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -140,9 +137,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaiTap/TrienKhaiLopInterfaceResizeChoLopHinhHoc" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,20 +185,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2643857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36216217" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,6 +204,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,7 +218,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="441">
           <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
           <folding>
             <element signature="e#278#279#0" expanded="true" />
@@ -235,13 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircleComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -252,19 +245,26 @@
             <element signature="e#316#317#0" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
             <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CircleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CircleComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="66">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
